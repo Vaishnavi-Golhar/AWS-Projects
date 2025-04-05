@@ -1,35 +1,37 @@
-# 🛢️ AWS MariaDB RDS Project
+# 🐬 MariaDB on AWS RDS - Project
 
-This project demonstrates how to deploy and connect to a **MariaDB-based Amazon RDS instance** for use by an enterprise-level application. This solution was implemented for **XYZ Corporation**, whose application needs a secure and scalable SQL database service.
+This project demonstrates how to deploy a **MariaDB** instance using **AWS RDS** and connect to it from both Windows and Linux systems.
 
 ---
 
 ## 📘 Problem Statement
 
-You work for **XYZ Corporation**. Their application requires a **SQL service** to store and retrieve data efficiently. You are tasked with implementing a suitable **RDS engine** and ensuring secure connectivity.
+You work for **XYZ Corporation**. Their application requires a **SQL database service** to store and retrieve data efficiently. As part of the migration to AWS, you're assigned the task to set up and test connectivity for MariaDB.
 
 ---
 
 ## ✅ Tasks Performed
 
-1. **Created an Amazon RDS Database** using the **MariaDB engine**.
-2. **Connected to the RDS instance** using:
-   - **SQL Client** (for Windows)
-   - **Linux-based EC2 instance**
+1. **Created a MariaDB Engine based RDS Database** using AWS Console.
+2. **Connected to the DB** using:
+   - 🔹 A **SQL client on Windows**
+   - 🔹 A **Linux-based EC2 instance** (using MySQL CLI)
 
 ---
 
-## 📄 Project Documentation
+## 📝 Project Report
 
-📥 [View Full Project PDF with Screenshots](https://github.com/Vaishnavi-Golhar/AWS-Projects/blob/main/Database%20Services/MariaDB%20Project/MariaDB%20Project.pdf)
+Detailed step-by-step documentation and screenshots are included in the PDF below:
+
+📥 [View Project PDF](https://github.com/Vaishnavi-Golhar/AWS-Projects/blob/main/Database%20Services/MariaDB%20Project/MariaDB%20Project.pdf)
 
 ---
 
-## 🛠️ Tools & AWS Services Used
+## 🔧 Tools & Services Used
 
 - **Amazon RDS (MariaDB Engine)**
-- **Amazon EC2 (Linux)**
-- **SQL Client (Windows)**
+- **AWS EC2 (Linux)**
+- **MySQL Workbench / SQL Client for Windows**
 - **AWS Management Console**
 
 ---
@@ -37,10 +39,10 @@ You work for **XYZ Corporation**. Their application requires a **SQL service** t
 ## 🙋‍♀️ Author
 
 **Vaishnavi Golhar**  
-🔗 [GitHub Profile](https://github.com/Vaishnavi-Golhar)  
+🔗 [GitHub](https://github.com/Vaishnavi-Golhar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavigolhar/)  
 📫 [vaishnavigolhar05@gmail.com](mailto:vaishnavigolhar05@gmail.com)
 
 ---
 
-⭐ *If you found this project useful, don’t forget to star the repo!*
-
+⭐ *If this project helped you or inspired you, feel free to star the repo!*
