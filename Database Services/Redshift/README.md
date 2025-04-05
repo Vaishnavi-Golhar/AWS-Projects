@@ -1,4 +1,4 @@
-# Redshift Assignment
+# Redshift Project
 
 ## 📄 Problem Statement
 You work for **XYZ Corporation**. Their application requires a database service that can store data which can be retrieved if required. Implement a suitable service for the same.
